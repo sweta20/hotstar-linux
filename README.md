@@ -12,3 +12,4 @@ http://www.hotstar.com/sports/cricket/india-vs-england-2016/m181714/match-clips/
 
 So after opening the url, click on the extension. It will redirect you to the m3u8 website.
 
+Please let me know if you have any trouble using the extension. 
