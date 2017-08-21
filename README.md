@@ -12,3 +12,8 @@ http://www.hotstar.com/sports/cricket/india-vs-england-2016/m181714/match-clips/
 
 So after opening the url which should look like, click on the extension. 
 It will redirect you to the m3u8 website. Please let me know if you have any trouble using the extension. 
+
+Note:
+ - Allow Flash for the website
+ - The id(2001901793) should be the last part of url. Avoid /id/watch. Remove /watch.
+ 
