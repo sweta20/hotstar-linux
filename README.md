@@ -1,4 +1,4 @@
-# hotstar-linux
+# hotstar-linux (Not working currently)
 A simple plugin to play hotstar videos on google chrome(linux)
 
 Many people have faced the problem of streaming hotstar videos on linux. It is a simple plugin when added to browser helps resolve the issue.
@@ -16,4 +16,3 @@ It will redirect you to the m3u8 website. Please let me know if you have any tro
 Note:
  - Allow Flash for the website
  - The id(2001901793) should be the last part of url. Avoid /id/watch. Remove /watch.
- 
