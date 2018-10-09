@@ -1,4 +1,4 @@
-# hotstar-linux (Not working currently)
+# hotstar-linux
 A simple plugin to play hotstar videos on google chrome(linux)
 
 Many people have faced the problem of streaming hotstar videos on linux. It is a simple plugin when added to browser helps resolve the issue.
